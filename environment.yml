@@ -1,0 +1,11 @@
+name: smh
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - numpy
+  - scipy
+  - opencv
+
